@@ -1,6 +1,3 @@
-
-# Onur Semi Tosun 05220000302
-
 totalPointsWon=0        #Total Number Of Points Won From All The Matches
 totalPointsLose=0
 matchWonCount=0
@@ -90,12 +87,7 @@ print(f"\n+Total Number Of Matches Won: {matchWonCount}\n-Total Number Of Matche
 print(f"\n+Number Of Matches Won Without Losing a Set: {threeSetsMatchWonCount}\n+Percentage Of The Matches Without Losing Set To All Matches Won: %{perThreeSetsMatchWon:.2f}")       
 print(f"\n=Number Of Matches Finished In 5 Sets: {fiveSetsMatchCount}\n=Percentage Of Matches Finished In 5 Set To All Matches: %{perFiveSetsMatch:.2f}")  
 print(f"\nThe Match Which Has Biggest Won-Lose Point Difference Is {differenceMatch}.Match and Name Of The Opposite Team In This Match Is {biggestDifferenceMatch}\nThe Difference Of Points: {differenceBiggest}")      
-        
-        
-        
-        
-        
-        
+
         
         
         
